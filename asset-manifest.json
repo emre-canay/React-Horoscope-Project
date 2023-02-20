@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React%20Horoscope%20Project%20/static/css/main.48ce118f.css",
-    "main.js": "/React%20Horoscope%20Project%20/static/js/main.50233d52.js",
-    "static/js/787.6c3fad03.chunk.js": "/React%20Horoscope%20Project%20/static/js/787.6c3fad03.chunk.js",
-    "static/media/logo.png": "/React%20Horoscope%20Project%20/static/media/logo.d6c42622bddf5a8e7575.png",
-    "index.html": "/React%20Horoscope%20Project%20/index.html",
-    "main.48ce118f.css.map": "/React%20Horoscope%20Project%20/static/css/main.48ce118f.css.map",
-    "main.50233d52.js.map": "/React%20Horoscope%20Project%20/static/js/main.50233d52.js.map",
-    "787.6c3fad03.chunk.js.map": "/React%20Horoscope%20Project%20/static/js/787.6c3fad03.chunk.js.map"
+    "main.css": "/solution/static/css/main.48ce118f.css",
+    "main.js": "/solution/static/js/main.87a3fc87.js",
+    "static/js/787.6c3fad03.chunk.js": "/solution/static/js/787.6c3fad03.chunk.js",
+    "static/media/logo.png": "/solution/static/media/logo.d6c42622bddf5a8e7575.png",
+    "index.html": "/solution/index.html",
+    "main.48ce118f.css.map": "/solution/static/css/main.48ce118f.css.map",
+    "main.87a3fc87.js.map": "/solution/static/js/main.87a3fc87.js.map",
+    "787.6c3fad03.chunk.js.map": "/solution/static/js/787.6c3fad03.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.48ce118f.css",
-    "static/js/main.50233d52.js"
+    "static/js/main.87a3fc87.js"
   ]
 }
